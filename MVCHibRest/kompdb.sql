@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `Person` (
 --
 
 INSERT INTO `Person` (`id`, `firstname`, `lastname`, `personid`) VALUES
-(1, 'Urban', 'Modig', '19720805-8912');
+(1, 'Urban', 'Modig', '19720805-8888');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
